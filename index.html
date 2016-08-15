@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>tick tock toe</title>
+
+
+   <style>
+   body {
+        text-align: center;
+   }
+   .header {
+
+     width: 400px;
+     margin: auto;
+     text-align: center
+   }
+    .gameStarter {
+        width: 500px,
+        height: 500px;
+         margin: auto;
+         border: 3px solid green;
+    }
+
+    .middleCol{
+        border-right: 1px solid black;
+        border-left: 1px solid black;
+    }
+
+    .middleRow{
+        border-top: 1px solid black;
+        border-bottom: 1px solid black;
+    }
+
+    td {
+        height: 100px;
+        width: 100px;
+        text-align: auto
+    }
+    table {
+        margin: auto;
+        width: 400px;
+        hieght: 400px;
+        border: 3px solid green;
+        padding: 10px;
+    }
+    </style>
+
+</head>
+<body>
+<h1>Tick Tock Toe</h1>
+<div id="reactMe"></div>
+
+<div id="reactMe2"></div>
+
+
+
+<!-- Include JavaScript dependencies -->
+<script type="text/javascript" src="./target/scala-2.11/ticktocktoejs-jsdeps.js"></script>
+<!-- Include Scala.js compiled code -->
+<script type="text/javascript" src="./target/scala-2.11/ticktocktoejs-fastopt.js"></script>
+<!-- Run tutorial.webapp.TutorialApp -->
+<script type="text/javascript">
+      webApp().main();
+
+
+    </script>
+
+
+</body>
+</html>
