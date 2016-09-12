@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0mFast optimizing /home/maier/IdeaProjects/try/tickTockToeJS/target/scala-2.11/ticktocktoejs-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 42615 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 15968 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 61574 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: false[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 67107 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 157 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 62812 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 133415 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 41578 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 6746 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 48499 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 361[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 1318 -- invalidated: 107[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 36482 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 8 -- invalidated: 27 -- trees read: 25[0m

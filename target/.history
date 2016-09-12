@@ -1,0 +1,16 @@
+run
+fastOptJS
+reload
+fastOptJS
+reload
+fastOptJS
+reload
+run
+reload
+fastOptJS
+reload
+fastOptJS
+ def onButtonPressed: Callback =
+      Callback.alert("The button was pressed!") def onButtonPressed: Callback =
+fastOptJS
+~fastOptJS
